@@ -1,5 +1,8 @@
 _repo: USDA-Leaflet-358-Powder-Post-Beetles-in-Buildings-What-to-Do-About-Them_59377
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59377-h/images/cover_image.png
 creator:
   authors:
   - agent_name: McIntyre, T.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50424'
     url: http://www.gutenberg.org/2009/agents/50424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59377#USDA-Leaflet-358-Powder-Post-Beetles-in-Buildings-What-to-Do-About-Them
 gutenberg_issued: '2019-04-28'
 gutenberg_type: Text
 identifiers:
